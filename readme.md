@@ -10,14 +10,16 @@ In your Terminal/command line, run the following commands:
 
 `cd lyric-analyzer`
 
-Then, create a [Genius API Client](https://genius.com/api-clients/new).
+Then, create a new [Genius API Client](https://genius.com/api-clients/new) and find your Access Token.
 
-Create a file in the project root called `config.py` and store you new Genius API client's Access Token in it, like so:
+Create a file in the project root called `config.py` and store your Access Token in it, like so:
 ```
 # config.py
 client_access_token = 'xxx'
 ```
 
-In your Terminal/command line, run the following command:
+In your Terminal/command line, install any necessary modules using `pip3 install [modulename]`.
+
+To run the program, run the following line in your Terminal/command line:
 
 `python3 main.py`
