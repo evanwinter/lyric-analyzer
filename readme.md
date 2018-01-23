@@ -23,3 +23,11 @@ In your Terminal/command line, install any necessary modules using `pip3 install
 To run the program, run the following line in your Terminal/command line:
 
 `python3 main.py`
+
+### Actions
+
+1. Frequency distribution plot of most-used lyrics.
+
+2. Word cloud of most-used lyrics.
+
+3. Quick summary of lyric analysis in terms of lexical diversity, sentiment intensity, and more.
