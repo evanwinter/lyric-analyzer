@@ -5,8 +5,8 @@ Built on Python 3, uses BeautifulSoup, NLTK, and the Genius API.
 ### Usage
 
 In your Terminal/command line, run the following commands:
-`git clone https://github.com/evanwinter/lyric-analyzer`
-`cd lyric-analyzer`
+* `git clone https://github.com/evanwinter/lyric-analyzer`
+* `cd lyric-analyzer`
 
 Then, create a [Genius API Client](https://genius.com/api-clients/new).
 
@@ -17,4 +17,4 @@ client_access_token = 'xxx'
 ```
 
 In your Terminal/command line, run the following command:
-`python3 main.py`
+* `python3 main.py`
